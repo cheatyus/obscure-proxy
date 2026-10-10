@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+
+# PyInstaller
+*.manifest
+
+# Tor specific ignore (usually generated at runtime)
+keys/
+logs tes/
+cached-*
+state
+lock
+unverified-*
+
+# Next.js / Node (from design folder)
+node_modules/
+.next/
+.out/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Backup folder
+backups/
